@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-weight: 800;
+}
+
+h2 {
+  color: blueviolet;
+  font-style: italic;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+  color: rgb(133, 22, 22);
+  font-size: x-large;
+}
+
+ul {
+  color: rgb(133, 22, 22);
+  font-size: x-large;
+  line-height: 30px;
+}
